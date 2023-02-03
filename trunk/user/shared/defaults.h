@@ -37,10 +37,10 @@
 
 #define DEF_WLAN_2G_CC		"CN"
 #define DEF_WLAN_5G_CC		"US"
-#define DEF_WLAN_2G_SSID  "Cube"
-#define DEF_WLAN_5G_SSID  "Cube-5G"
-#define DEF_WLAN_2G_GSSID "Cube-Guest"
-#define DEF_WLAN_5G_GSSID "Cube-Guest-5G"
+#define DEF_WLAN_2G_SSID		"Cube"
+#define DEF_WLAN_5G_SSID		"Cube-5G"
+#define DEF_WLAN_2G_GSSID		"Cube-Guest"
+#define DEF_WLAN_5G_GSSID		"Cube-Guest-5G"
 #define DEF_WLAN_2G_PSK		"myj2q76b"
 #define DEF_WLAN_5G_PSK		"myj2q76b"
 
