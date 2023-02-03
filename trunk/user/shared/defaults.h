@@ -35,12 +35,12 @@
 #define DEF_LAN_DHCP_END	"192.168.50.244"
 #define DEF_LAN_MASK		"255.255.255.0"
 
-#define DEF_WLAN_2G_CC		"AU"
-#define DEF_WLAN_5G_CC		"AU"
-#define DEF_WLAN_2G_SSID	BOARD_PID "Cube"
-#define DEF_WLAN_5G_SSID	BOARD_PID "Cube-5G"
-#define DEF_WLAN_2G_GSSID	BOARD_PID "Cube-Guest"
-#define DEF_WLAN_5G_GSSID	BOARD_PID "Cube-Guest-5G"
+#define DEF_WLAN_2G_CC		"CN"
+#define DEF_WLAN_5G_CC		"US"
+#define DEF_WLAN_2G_SSID "Cube"
+#define DEF_WLAN_5G_SSID "Cube-5G"
+#define DEF_WLAN_2G_GSSID	"Cube-Guest"
+#define DEF_WLAN_5G_GSSID "Cube-Guest-5G"
 #define DEF_WLAN_2G_PSK		"myj2q76b"
 #define DEF_WLAN_5G_PSK		"myj2q76b"
 
